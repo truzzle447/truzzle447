@@ -1,6 +1,20 @@
 ## Hi there 👋
 
 <!--
+**truzzle447/truzzle447** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 ## Hi, I’m Tshepang Matiting 👋
 
 Mechanical Engineering + Software • AI, systems, and calm, usable interfaces.
@@ -20,6 +34,4 @@ Mechanical Engineering + Software • AI, systems, and calm, usable interfaces.
 
 ### Contact
 - Email: tshepangmatiting9@gmail.com  
-- LinkedIn: www.linkedin.com/in/tshepang-matiting-86b24031a  
-
--->
+- LinkedIn: https://www.linkedin.com/in/tshepang-matiting-86b24031a/
