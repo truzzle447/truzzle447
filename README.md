@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://raw.githubusercontent.com/truzzle447/truzzle447/main/assets/github-banner.svg
+![GitHub banner](https://raw.githubusercontent.com/truzzle447/truzzle447/main/assets/github-banner.svg)
+
+
 ## Hi, I’m Tshepang Matiting 👋
 
 Mechanical Engineering + Software • AI, systems, and calm, usable interfaces.
