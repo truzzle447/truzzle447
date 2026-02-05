@@ -27,7 +27,7 @@ Mechanical Engineering + Software • AI, systems, and calm, usable interfaces.
 
 ### Featured Work
 - **Portfolio** — https://truzzle447.github.io/portfolio/  
-- **Academic Planner** — https://github.com/truzzle447/academic_planner  
+- **DESQ** — https://github.com/truzzle447/academic_planner  
 - *(Beauty Bar — coming soon)*
 
 ---
